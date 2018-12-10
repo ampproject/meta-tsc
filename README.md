@@ -1,2 +1,3 @@
-# tsc
-The AMP Technical Steering Committee
+# Repository of the AMP Technical Steering Committee
+
+Nothing here yet :)
