@@ -1,4 +1,4 @@
-# The AMP Technical Steering Committee
+# The AMP Technical Steering Committee (TSC)
 
 We are the group of people who set AMP's technical & product direction.
 
