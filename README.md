@@ -15,3 +15,4 @@ We are the group of people who set AMP's technical & product direction.
 - [Paul Armstrong, Twitter](https://github.com/paularmstrong)
 - [Rudy Galfi, Google](https://github.com/rudygalfi)
 - [Saulo Santos, Microsoft](https://github.com/ssantosms)
+- [Kasiana McLenaghan, Axios](https://github.com/KasianaMac)
