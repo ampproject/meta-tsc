@@ -11,6 +11,7 @@ We are the group of people who set AMP's technical & product direction.
 - [Chris Papazian, Pinterest](https://github.com/cpapazian)
 - [David Strauss, Pantheon](https://github.com/davidstrauss)
 - [Dima Voytenko, Google](https://github.com/dvoytenko)
+- [Joey Rozier, Google](https://github.com/mrjoro) (Operating Director)
 - [Kasiana McLenaghan, Axios](https://github.com/KasianaMac)
 - [Malte Ubl, Google](https://github.com/cramforce)
 - [Paul Armstrong, Twitter](https://github.com/paularmstrong)
