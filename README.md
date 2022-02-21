@@ -10,6 +10,5 @@ We are the group of people who set AMP's technical & product direction.
 
 - [Dima Voytenko, Google](https://github.com/dvoytenko)
 - [Joey Rozier, Google](https://github.com/mrjoro) (Operating Director)
-- [Malte Ubl, Google](https://github.com/cramforce)
 - [Rudy Galfi, Google](https://github.com/rudygalfi)
 - [Saulo Santos, Microsoft](https://github.com/ssantosms)
