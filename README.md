@@ -10,4 +10,3 @@ We are the group of people who set AMP's technical & product direction.
 
 - [Dima Voytenko, Google](https://github.com/dvoytenko)
 - [Joey Rozier, Google](https://github.com/mrjoro) (Operating Director)
-- [Saulo Santos, Microsoft](https://github.com/ssantosms)
