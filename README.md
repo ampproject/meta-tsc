@@ -8,5 +8,5 @@ We are the group of people who set AMP's technical & product direction.
 
 ## Members
 
-- [Dima Voytenko, Google](https://github.com/dvoytenko)
-- [Joey Rozier, Google](https://github.com/mrjoro) (Operating Director)
+- [Katharina Familia Almonte, Google](https://github.com/kalmonte)
+- [Thomas Pan, Google](https://github.com/thomaspan)
